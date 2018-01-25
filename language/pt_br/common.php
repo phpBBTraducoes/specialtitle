@@ -32,6 +32,6 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	'SPECIAL_TITLE'				 	=> 'Título especial',
 	'SPECIAL_TITLE_EXPLAIN'		 	=> '<em>Título pequeno ao lado do nome de usuário 8 caracteres no máximo.</em>',
-	'SPECIAL_TITLE_COLOUR'			=> 'Special title colour',
+	'SPECIAL_TITLE_COLOUR'			=> 'Cor do Título especial',
 	'SPECIAL_TITLE_COLOUR_EXPLAIN'	=> '<em>Selecione um valor do seletor de cores ou insira-o diretamente.</em>',
 ));
